@@ -18,6 +18,8 @@ Second-year CSE undergrad<br>i'm looking to collaborate on revolutionary project
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shravaniwankhede&theme=dark)](https://git.io/streak-stats)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shravaniwankhede&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
